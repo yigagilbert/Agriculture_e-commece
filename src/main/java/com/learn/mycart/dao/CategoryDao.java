@@ -30,7 +30,7 @@ public class CategoryDao {
 	public List<Category> getCategories()
 	{
 		Session s=this.factory.openSession();
-		Query<Category>  query= s.createQuery("from Category");
+		Query<Category>  query= s.createQuery("from Category", Category.class);
 	     List<Category>list= query.list()	;
 		return list;
 	}

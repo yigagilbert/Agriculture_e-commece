@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="mycart">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.48">
+    <root id="1">
+      <DefaultCasing>exact</DefaultCasing>
+      <ServerVersion>5.7.40</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="analytics"/>
+    <schema id="3" parent="1" name="awsS3"/>
+    <schema id="4" parent="1" name="black_sigatoka"/>
+    <schema id="5" parent="1" name="chat_platform"/>
+    <schema id="6" parent="1" name="classicmodels"/>
+    <schema id="7" parent="1" name="college"/>
+    <schema id="8" parent="1" name="college_of_computing"/>
+    <schema id="9" parent="1" name="college_of_computing_2"/>
+    <schema id="10" parent="1" name="colleges"/>
+    <schema id="11" parent="1" name="content_collection"/>
+    <schema id="12" parent="1" name="db_dynamicforms"/>
+    <schema id="13" parent="1" name="gettingstarted."/>
+    <schema id="14" parent="1" name="information_schema"/>
+    <schema id="15" parent="1" name="invertory_class"/>
+    <schema id="16" parent="1" name="job_search_tracker"/>
+    <schema id="17" parent="1" name="messagedb"/>
+    <schema id="18" parent="1" name="messenger"/>
+    <schema id="19" parent="1" name="my_todo"/>
+    <schema id="20" parent="1" name="mycart">
+      <Current>1</Current>
+    </schema>
+    <schema id="21" parent="1" name="mysql"/>
+    <schema id="22" parent="1" name="performance_schema"/>
+    <schema id="23" parent="1" name="react_chat"/>
+    <schema id="24" parent="1" name="snap"/>
+    <schema id="25" parent="1" name="spring_mvc"/>
+    <schema id="26" parent="1" name="students_data"/>
+    <schema id="27" parent="1" name="sys"/>
+  </database-model>
+</dataSource>

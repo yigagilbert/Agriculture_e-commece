@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83cf5026-3b79-410c-8109-74b243a2b220" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/mycart/dao/CategoryDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/mycart/dao/CategoryDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/mycart/helper/FactoryProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/mycart/helper/FactoryProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/mycart/helper/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/mycart/helper/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/mycart/servlets/ProductOperationServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/mycart/servlets/ProductOperationServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/img/products/cloth1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/img/products/cloth2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/img/products/laptop1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/img/products/laptop2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/img/products/laptop3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/img/products/laptop4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/img/products/pPic" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/img/products/pPic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/img/products/phone1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/img/products/phone2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/img/products/phone3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/mycart/dao/CategoryDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/mycart/dao/CategoryDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/mycart/helper/FactoryProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/mycart/helper/FactoryProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/mycart/helper/Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/mycart/helper/Helper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/mycart/servlets/ProductOperationServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/mycart/servlets/ProductOperationServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mycart.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/mycart.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mycart/WEB-INF/classes/com/learn/mycart/dao/CategoryDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/mycart/WEB-INF/classes/com/learn/mycart/dao/CategoryDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mycart/WEB-INF/classes/com/learn/mycart/helper/FactoryProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/mycart/WEB-INF/classes/com/learn/mycart/helper/FactoryProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mycart/WEB-INF/classes/com/learn/mycart/helper/Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/mycart/WEB-INF/classes/com/learn/mycart/helper/Helper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mycart/WEB-INF/classes/com/learn/mycart/servlets/ProductOperationServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/mycart/WEB-INF/classes/com/learn/mycart/servlets/ProductOperationServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mycart/WEB-INF/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/mycart/WEB-INF/classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mycart/WEB-INF/lib/validation-api-2.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mycart/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/mycart/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mycart/img/products/pPic" beforeDir="false" afterPath="$PROJECT_DIR$/target/mycart/img/products/pPic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mycart/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/mycart/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mycart/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/mycart/js/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PpqvXgmt2aTvrvvFXKeoMlVxXU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/google/Documents/GitHub/Agriculture_e-commece/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Agriculture_e-commece" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Agriculture_e-commece" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="aws.lambda" factoryName="Local">
+      <option name="credentialProviderId" />
+      <option name="regionId" />
+      <option name="debugHost" value="localhost" />
+      <option name="architecture" />
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="handler" />
+      <option name="image" value="false" />
+      <option name="logicalFunctionName" />
+      <option name="memorySize" value="128" />
+      <option name="pathMappings">
+        <list />
+      </option>
+      <option name="platform" />
+      <option name="runtime" />
+      <option name="templateFile" />
+      <option name="timeout" value="300" />
+      <option name="useTemplate" value="false" />
+      <option name="input" />
+      <option name="inputIsFile" value="false" />
+      <sam>
+        <option name="additionalBuildArgs" />
+        <option name="additionalLocalArgs" />
+        <option name="buildInContainer" value="false" />
+        <option name="dockerNetwork" />
+        <option name="skipImagePull" value="false" />
+      </sam>
+      <method v="2" />
+    </configuration>
+    <configuration name="TomCat" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="contextPath" value="/mycart" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.54" />
+          <option name="path" value="$USER_HOME$/apache-tomcat-9.0.54" />
+          <option name="version" value="9.0.54.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="mycart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83cf5026-3b79-410c-8109-74b243a2b220" name="Changes" comment="" />
+      <created>1684164602476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684164602476</updated>
+      <workItem from="1684164608008" duration="14004000" />
+      <workItem from="1684204815075" duration="12511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

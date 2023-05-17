@@ -1,11 +1,11 @@
 package com.learn.mycart.helper;
 
-import java.util.HashMap;
-import java.util.Map;
-
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.query.Query;
+
+import java.util.HashMap;
+import java.util.Map;
 
 public class Helper {
 	public static String get10Words(String desc)
@@ -42,9 +42,7 @@ public class Helper {
 		Map<String, Long> map=new HashMap<String, Long>();
 		map.put("userCount", userCount);
 		map.put("productCount", productCount);
-		
-		
-		
+
 		session.close();
 		
 		return map;

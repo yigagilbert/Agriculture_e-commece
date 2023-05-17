@@ -1,6 +1,5 @@
 function add_to_cart(pid,pname,price){
 	
-	
 	let cart=localStorage.getItem("cart");
 	if(cart==null){
 		
@@ -37,13 +36,9 @@ function add_to_cart(pid,pname,price){
 				localStorage.setItem("cart",JSON.stringify(pcart));
 				console.log("Product id added")
 			}
-	
-		
-		
+
 	}
 	updateCart();
-	
-	
 }
 
 
